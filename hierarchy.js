@@ -30,7 +30,7 @@ var hierarchy =
       [ "request_from_empty_nexus", "structrequest__from__empty__nexus.html", null ]
     ] ],
     [ "boost::static_visitor", null, [
-      [ "geojson::JSONProperty::PropertyVisitor< T >", "structgeojson_1_1_j_s_o_n_property_1_1_property_visitor.html", null ]
+      [ "geojson::JSONProperty::AsVectorVisitor< T >", "structgeojson_1_1_j_s_o_n_property_1_1_as_vector_visitor.html", null ]
     ] ],
     [ "CatchmentAggrDataSelector", "class_catchment_aggr_data_selector.html", [
       [ "BMIDataSelector", "class_b_m_i_data_selector.html", null ],
@@ -44,9 +44,9 @@ var hierarchy =
     [ "data_access::DataProvider< double, CatchmentAggrDataSelector >", "classdata__access_1_1_data_provider.html", [
       [ "data_access::GenericDataProvider", "classdata__access_1_1_generic_data_provider.html", [
         [ "CsvPerFeatureForcingProvider", "class_csv_per_feature_forcing_provider.html", null ],
-        [ "data_access::WrappedForcingProvider", "classdata__access_1_1_wrapped_forcing_provider.html", [
+        [ "data_access::WrappedDataProvider", "classdata__access_1_1_wrapped_data_provider.html", [
           [ "data_access::DeferredWrappedProvider", "classdata__access_1_1_deferred_wrapped_provider.html", [
-            [ "data_access::OptionalWrappedProvider", "classdata__access_1_1_optional_wrapped_provider.html", null ]
+            [ "data_access::OptionalWrappedDataProvider", "classdata__access_1_1_optional_wrapped_data_provider.html", null ]
           ] ]
         ] ],
         [ "realization::Bmi_Formulation", "classrealization_1_1_bmi___formulation.html", [
